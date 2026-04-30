@@ -1,0 +1,3 @@
+Provide short expected answers
+that a strong candidate would give
+for each interviewer question.
