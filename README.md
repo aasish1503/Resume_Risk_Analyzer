@@ -6,7 +6,7 @@ An AI-powered web application that analyzes resumes and identifies potential int
 
 ## 🚀 Live Demo
 
-👉 https://your-app.streamlit.app
+👉 https://resumeriskanalyzer-dpinatbxzhq24g8zp3pe4b.streamlit.app/
 
 ---
 
