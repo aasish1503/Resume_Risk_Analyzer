@@ -12,7 +12,7 @@ An AI-powered web application that analyzes resumes and identifies potential int
 
 ## 📌 Features
 
-* 🔍 Extracts key technical claims from uploaded resumes (PDF)
+* 🔍 Extracts key technical claims from uploaded resumes (PDF)  
 * 🤖 Uses Groq LLaMA 3.1 to evaluate interview risk
 * 🎯 Classifies each claim into:
 
